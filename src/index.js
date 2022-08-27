@@ -11,7 +11,7 @@ import en from 'javascript-time-ago/locale/en.json'
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
 import './index.css';
-
+// comment
 TimeAgo.addDefaultLocale(en)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
