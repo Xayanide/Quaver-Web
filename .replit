@@ -1,7 +1,4 @@
-[interpreter]
-command = "npx serve -s build -p 443"
-
-run = ""
+run = "npx serve -s build -p 443"
 
 hidden=[".config"]
 
